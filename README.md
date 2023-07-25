@@ -14,4 +14,12 @@
 <img src="https://github.com/Rulzyushan/Projects/assets/106433847/a84ca1dd-3f68-4e5d-8eef-3a60ed3d252e" height="250" width="450" >
 
 ### Sewing Production Plan
-<img src="https://github.com/Rulzyushan/Projects/assets/106433847/fa99e6fe-e4b6-475f-a92b-92b97c4e33ac" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/a2c9eed5-4b4e-451b-a889-e759b2b2560f" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/a7916a71-70e9-4816-b70d-c1660ea4684b" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/6477db2d-c0f7-4537-9704-9bb529b95a0b" width="450" >
+<img src="https://github.com/Rulzyushan/Projects/assets/106433847/fa99e6fe-e4b6-475f-a92b-92b97c4e33ac" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/a2c9eed5-4b4e-451b-a889-e759b2b2560f" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/a7916a71-70e9-4816-b70d-c1660ea4684b" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/6477db2d-c0f7-4537-9704-9bb529b95a0b" height="250" width="450" >
+### Layout Discussion
+<img src="https://github.com/Rulzyushan/Projects/assets/106433847/10ac91f0-9865-405c-8d8c-03c314baa8e3" height="290" width="150" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/60612e5c-a08c-4f27-80d0-8f7a834e2cdf" height="290" width="150" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/46d79ca6-e686-4c4f-83f2-a14f0bc89c25" height="250" width="450" >
+### Sample Room
+<img src="https://github.com/Rulzyushan/Projects/assets/106433847/54e8cbe9-6581-455d-a4e6-dce93265fce9" height="290" width="150" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/e1b81bae-2cb8-4eff-9515-4e79ea2bb1b3" height="290" width="150" >
+### Skill Matrix
+<img src="https://github.com/Rulzyushan/Projects/assets/106433847/3393dcfe-d5c2-47f0-9c19-4d30f34682da" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/c13bf5ac-b9cf-4180-ae92-716f879f48ef" height="250" width="450" >
+### Module Skill
+<img src="https://github.com/Rulzyushan/Projects/assets/106433847/f6f8fa04-a421-4fb5-b0d1-b810fe551c8e" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/c407def7-b96e-472e-8df1-805abfeb7930" height="250" width="450" > <img src="https://github.com/Rulzyushan/Projects/assets/106433847/78a100d9-824b-440a-b4eb-d731c0634ca9" height="250" width="450" >
